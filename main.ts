@@ -18,4 +18,6 @@ input.onButtonPressed(Button.A, function() {
     basic.showString('The temperature is:')
     basic.showNumber(temperature)
     basic.showString('C.')
+    basic.clearScreen()
+    basic.showIcon(IconNames.Happy)
 })
