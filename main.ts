@@ -6,7 +6,7 @@
 */
 
 // variable for temperature
-let temperature : number
+let temperature: number
 
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
